@@ -12,6 +12,6 @@ function MovieCard({
       <small>{genres.join(", ")}</small>
     </div>
   );
-}
+};
 
 export default MovieCard;
